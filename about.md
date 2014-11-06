@@ -1,30 +1,24 @@
 ---
 layout: page
-title: About
+title: درباره
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  سلام! خیلی وقت بود تصمیم گرفته بودم بنویسم،راجع به همه‌چی. ولی خب موقعیتش جور نمی‌شد.تا اینکه کخم گرفت که با این <a href="http://github.com/bijanebrahimi/webtastic">وب‌تستیک بیژول</a> یه سایت استاتیک بزنم.کم‌کم از ایده‌اش خوشم اومد.یه مدتی همینجوری پیش رفت که رسیدم به این جکیل.کخام که تموم شد بالاخره کمر همت بستم که حداقل یه بلاگ الکی درست کنم!(حتی اگه مثل تصمیم‌های قبلی یه جوری شد که به آخر نرسه یا حتی یه پست هم توش نذارم). اینطوری شد که اینجا رو درست کردم…
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+من مجابم.محمد جواد بدیعی.بچه مشدم(اصالتا بیرجندیم).لپ‌تاپی دارم و سرسوزن شوقی. بیا‌… اینم لینک توعیترم: [@_mojab_](https://twitter.com/_mojab_).
 
-There are currently two themes built on Poole:
+اینجاها هم میتونین پیدام کنین:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Linkedin](http://hyde.getpoole.com)
+* [Google+](http://lanyon.getpoole.com)
+* [Goodreads](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+اکانت گیت‌هابم هم که دیگه معلومه: [GitHub](https://github.com/mojab).
 
-## Setup
 
-Some fun facts about the setup of this project include:
+علایقم رو هم تو شبکه‌های اجتماعی میتونین بفهمین.حوصله ندارم دوباره اینجا بنویسم.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+به قول این رفیقمون تو لیست پستی:
+Live long & prosper

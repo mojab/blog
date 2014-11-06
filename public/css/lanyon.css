@@ -37,6 +37,7 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
+  direction: rtl;
   overflow-x: hidden;
 }
 
