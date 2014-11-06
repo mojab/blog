@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               MoJaB
 tagline:             'محمد جواد بدیعی'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'من مجابم.محمد جواد بدیعی.بچه مشدم.لپ‌تاپی دارم و سرسوزن شوقی.'
 url:                 http://mojab.github.io
 baseurl:             /blog/
 paginate:            5
@@ -23,4 +23,4 @@ author:
   email:             m.j.badiee@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             1.0.1
