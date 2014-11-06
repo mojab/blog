@@ -11,9 +11,9 @@ title: درباره
 
 اینجاها هم میتونین پیدام کنین:
 
-* [Linkedin](http://hyde.getpoole.com)
-* [Google+](http://lanyon.getpoole.com)
-* [Goodreads](http://lanyon.getpoole.com)
+* [Linkedin](http://ir.linkedin.com/in/mojab)
+* [Google+](https://google.com/+MohammadJavadBadiei)
+* [Goodreads](https://www.goodreads.com/user/show/36475187-mohammad-javad-badiei)
 
 اکانت گیت‌هابم هم که دیگه معلومه: [GitHub](https://github.com/mojab).
 
